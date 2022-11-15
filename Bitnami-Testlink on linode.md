@@ -16,7 +16,7 @@ Por final decidi baixar o espelho de Docker da Bitnami já abandonado e coloquei
  [https://scribehow.com/shared/Linode_basico__VKDaQ8dSQla3hIZOMct0Ag]
 
 3. No painel de controle do Linode, anote os dados de ip address v4, v6 e acesso ssh\
-ilustracao-painel-controle.png
+[Imagem de menu do Linode](/Bitnami-Testlink on linode/ilustracao-painel-controle.png)
 
 4. Acesse o ssh pelo comando citado acima ou pelo Linode Shell no botão Launch LISH console.
 
@@ -112,10 +112,16 @@ Obs.: Caso ele pedir um servidor válido SMTP para criar usuário, adicione na l
 
 ---
 **Referências:**
- [https://github.com/bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb) 
+ [https://github.com/bitnami/bitnami-docker-mariadb](https://github.com/bitnami/bitnami-docker-mariadb)
+  
  [https://hub.docker.com/r/bitnami/testlink](https://hub.docker.com/r/bitnami/testlink) 
+ 
  [https://github.com/TestLinkOpenSourceTRMS/testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code) 
+ 
  [https://www.linode.com/docs/guides/installing-and-using-docker-on-ubuntu-and-debian/](https://www.linode.com/docs/guides/installing-and-using-docker-on-ubuntu-and-debian/) 
+ 
  [https://www.linode.com/docs/guides/what-is-docker/](https://www.linode.com/docs/guides/what-is-docker/) 
+
 https://mariadb.com/kb/en/installing-and-using-mariadb-via-docker/
+
 https://cloud.linode.com/linodes/40031519
