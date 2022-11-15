@@ -16,7 +16,7 @@ Por final decidi baixar o espelho de Docker da Bitnami já abandonado e coloquei
  [https://scribehow.com/shared/Linode_basico__VKDaQ8dSQla3hIZOMct0Ag]
 
 3. No painel de controle do Linode, anote os dados de ip address v4, v6 e acesso ssh\
-[Imagem de menu do Linode](/Bitnami-Testlink on linode/ilustracao-painel-controle.png)
+[Imagem de menu do Linode](/Bitnami-Testlink%20on%20linode/ilustracao-painel-controle.png)
 
 4. Acesse o ssh pelo comando citado acima ou pelo Linode Shell no botão Launch LISH console.
 
