@@ -143,7 +143,7 @@ II – Criando um Plano de Teste
 
 ![](testlink-tutorial/image35.png)
 
-* * *
+
 
 * * *
 
@@ -269,7 +269,7 @@ Ao final clique em “Criar”
 
 ![](testlink-tutorial/image30.png)
 
-* * *
+
 
 * * *
 
@@ -342,7 +342,7 @@ VII – Executar testes
 
 ![](testlink-tutorial/image28.png)
 
-* * *
+
 
 * * *
 
@@ -388,8 +388,7 @@ Sumário
 [VII – Executar testes](#h.y9d0u8qapsmu)
 
 * * *
-
-Link para Download do PDF deste material.
+[Link para download do PDF](Desafio%20%232%20PTQS%20turma%208%20-%20Julio%20de%20Lima.pdf "")
 
 Referências: Testlink distribuído pela Bitnami - [https://hub.docker.com/r/bitnami/testlink](https://www.google.com/url?q=https://hub.docker.com/r/bitnami/testlink&sa=D&source=editors&ust=1668902282116390&usg=AOvVaw0OHxTzQ9LxZyJctT48pki7), Manual da versao anterior no medium: [https://medium.com/@luanasreis/testlink-uma-ferramenta-de-gerenciamento-de-testes-de-software-44001b816f64](https://www.google.com/url?q=https://medium.com/@luanasreis/testlink-uma-ferramenta-de-gerenciamento-de-testes-de-software-44001b816f64&sa=D&source=editors&ust=1668902282116761&usg=AOvVaw2Cz3qPSR_hROMv4pzCvqrL) 
 
