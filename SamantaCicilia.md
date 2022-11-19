@@ -12,16 +12,23 @@ Em seu texto, Samanta Cicilia explica seu entendimento sobre os diversos tipos d
 
 Os arquétipos citados pela autora incluem o QA Especialista, um tipo cada vez mais incomum nas organizações que se especializa em um único processo ou ferramenta como exploratório e automação, QA Generalista, presente em times ainda não amadurecidos em qualidade, que faz de tudo um pouco e que arrisca ter toda a responsabilidade de qualidade da equipe, o QA de Plataformas que cuida em criar ferramentas e dispositivos para ajudar a equipe a entregar com qualidade mais do que operar diretamente nos testes e o QA Consultor, que, geralmente contratado externo, visa trabalhar em todas as pontas da equipe disseminando conhecimento.
 Portanto, para manter um sistema com confiabilidade, qualidade e reduzir falhas, toda a equipe deve estar sempre bem atualizada sobre as alterações do projeto, manter boas práticas no código e nos testes com uma linguagem padronizada, além disso, alinhar as expectativas não somente entre o time e o cliente, mas também entre os pares. e utilizar prazos realistas com a necessidade do projeto.
+
 ![Piramide de testes](SamantaCicilia/Image%20on%202022-11-19%2007.46.46%20PM.jpg "")<!-- {"preview":"true"} -->
 
 **Este resumo foi produzido por** 
-	- Carolina Barros [Linkedin](https://www.linkedin.com/in/carolina-barros-03381a1b8/ "")
-	- Johnny Kamigashima [Linkedin](https://www.linkedin.com/in/kamigashima/ "")
-	- Victor Sarraf [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-sarraf-26330580/ "")
+
+- Carolina Barros [Linkedin](https://www.linkedin.com/in/carolina-barros-03381a1b8/)
+
+- Johnny Kamigashima [Linkedin](https://www.linkedin.com/in/kamigashima/)
+
+- Victor Sarraf [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-sarraf-26330580/)
+	
 Para o Desafio #1 do PTQS do Curso do Júlio de Lima em outubro/2022
 
 ### Referências
+
 **Samanta Cicilia** - Automatizar testes não é suficiente! - Front in Sampa 2020
 https://speakerdeck.com/samycici/automatizar-testes-nao-e-suficiente?slide=9
+
 **Samanta Cicilia** - Como criar a tão falada "Cultura de Qualidade"
 https://medium.com/assertqualityassurance/os-arqu%C3%A9tipos-do-qa-90538e018ebe
