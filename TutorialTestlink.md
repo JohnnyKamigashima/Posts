@@ -8,11 +8,14 @@ Turma 8 | Desafio 2
 ======================
 
 Alunos: Johnny Kamigashima [https://www.linkedin.com/in/kamigashima](https://www.google.com/url?q=https://www.linkedin.com/in/kamigashima&sa=D&source=editors&ust=1668902282084060&usg=AOvVaw0Dvu69FeFkgY79aKhKU0g4),  
+
 Miller Barros [https://www.linkedin.com/in/miller-c-barros-a6a514227/](https://www.google.com/url?q=https://www.linkedin.com/in/miller-c-barros-a6a514227/&sa=D&source=editors&ust=1668902282084379&usg=AOvVaw2rL1sBm74mrXE8fxfsUQjh), 
+
 Rafael Angelo da Costa [https://www.linkedin.com/in/rafaelangelodacosta/](https://www.google.com/url?q=https://www.linkedin.com/in/rafaelangelodacosta/&sa=D&source=editors&ust=1668902282084630&usg=AOvVaw2tfwavQlOTjljq25qc9NBm),
+
 Vitor Silva [https://www.linkedin.com/in/vitor-victoria-da-silva-703006199/](https://www.google.com/url?q=https://www.linkedin.com/in/vitor-victoria-da-silva-703006199/&sa=D&source=editors&ust=1668902282084871&usg=AOvVaw3ffR4b9GUF7CUUoaUOP7Ev)
 
-![](images/image37.png)
+![](testlink-tutorial/image37.png)
 
 Ferramenta Testlink para gestão de testes
 
@@ -58,7 +61,7 @@ As plataformas podem ser divididas em navegadores, sistemas operacionais ou disp
 Fazendo Login no Testlink
 -------------------------
 
-![Imagem de login do testlink](images/image27.png "Imagem de login do testlink")
+![Imagem de login do testlink](testlink-tutorial/image27.png "Imagem de login do testlink")
 
 #### Tela de login do Testlink
 
@@ -72,11 +75,11 @@ Fazendo Login no Testlink
 Iniciando um Projeto de Teste no TestLink
 -----------------------------------------
 
-![](images/image26.png)
+![](testlink-tutorial/image26.png)
 
 #### Menu principal do TestLink
 
-![](images/image7.png)
+![](testlink-tutorial/image7.png)
 
 #### Sempre que desejar voltar ao menu inicial clique na casinha ou no logo
 
@@ -89,11 +92,11 @@ No Testlink é necessário inicialmente ter um projeto, esta etapa seria a prime
 
 ##### 1.1 – No menu principal, clique na opção “Gerenciar Projeto de Teste”.
 
-##### ![](images/image45.png)
+##### ![](testlink-tutorial/image45.png)
 
 ##### 1.2 – Clique no botão “CRIAR”.
 
-![](images/image42.png)
+![](testlink-tutorial/image42.png)
 
 ##### 1.3 – Preencha os dados do “Projeto”.
 
@@ -105,13 +108,13 @@ No Testlink é necessário inicialmente ter um projeto, esta etapa seria a prime
 
 ###### Ao finalizar, clique em criar.
 
-![](images/image46.png)
+![](testlink-tutorial/image46.png)
 
 ##### 1.4 – Selecione o projeto
 
 ###### Uma vez criada, selecione o projeto no canto superior direito do aplicativo.
 
-![](images/image13.png)
+![](testlink-tutorial/image13.png)
 
 * * *
 
@@ -120,11 +123,11 @@ II – Criando um Plano de Teste
 
 ##### 2.1 – No menu principal clique na opção “Gerenciar Plano de Teste”.
 
-![](images/image31.png)
+![](testlink-tutorial/image31.png)
 
 #####  2.2 – Clique na opção “CRIAR”, para criar um novo Plano de Teste.
 
-![](images/image41.png)
+![](testlink-tutorial/image41.png)
 
 ##### 2.3 – Preencha os dados do “Plano de teste”
 
@@ -132,13 +135,13 @@ II – Criando um Plano de Teste
 
 ###### Ao finalizar clique em criar.
 
-![](images/image3.png)
+![](testlink-tutorial/image3.png)
 
 ##### 2.4 – Selecione o Plano de teste
 
 ###### No canto superior direito, logo abaixo do projeto, selecione o plano de teste atual.
 
-![](images/image35.png)
+![](testlink-tutorial/image35.png)
 
 * * *
 
@@ -149,11 +152,11 @@ III – Criando Baseline/Release
 
 ##### 3.1 – No menu principal, clique na opção “Baselines / Releases”.
 
-![](images/image9.png)
+![](testlink-tutorial/image9.png)
 
 ##### 3.2 – Clique na opção “Criar”.
 
-![](images/image20.png)
+![](testlink-tutorial/image20.png)
 
 ##### 3.3 – Na tela de “Baseline / Releases” configure as informações.
 
@@ -163,7 +166,7 @@ III – Criando Baseline/Release
 
 ###### Ao finalizar, clique em “Criar”.
 
-​​![](images/image19.png)
+​​![](testlink-tutorial/image19.png)
 
 * * *
 
@@ -172,11 +175,11 @@ IV – Criando Plataformas
 
 ##### 4.1 – No menu principal, clique em “Gerenciamento de Plataformas”
 
-![](images/image12.png)
+![](testlink-tutorial/image12.png)
 
 ##### 4.2 – Clique em “Criar”
 
-![](images/image32.png)
+![](testlink-tutorial/image32.png)
 
 ##### 4.3 – Preencha as informações da plataforma
 
@@ -189,17 +192,17 @@ Ao final clique em Gravar.
 
 Adicione quantas plataformas sejam necessárias para o projeto, uma vez adicionadas elas poderão ser utilizadas inúmeras vezes dentro do mesmo projeto e não é necessário adicionar novamente.
 
-![](images/image24.png)
+![](testlink-tutorial/image24.png)
 
 ##### 4.4 – No menu principal, atribua plataformas ao Plano de teste
 
 Clique em Adicionar / Remover Plataformas
 
-![](images/image6.png)
+![](testlink-tutorial/image6.png)
 
 ##### 4.5 – Selecione as plataformas e atribua utilizando as setas > ou >> e clique em “Gravar”
 
-![](images/image43.png)
+![](testlink-tutorial/image43.png)
 
 * * *
 
@@ -208,15 +211,15 @@ V – Criar Suíte de testes e Casos de testes
 
 ##### 5.1 – No menu principal, clique em “Especificar Casos  de Teste”
 
-![](images/image2.png)
+![](testlink-tutorial/image2.png)
 
 ##### 5.2 – Clique na engrenagem para abrir mais opções
 
-![](images/image8.png)
+![](testlink-tutorial/image8.png)
 
 ##### 5.3 – Clique no ícone de +
 
-![](images/image22.png)
+![](testlink-tutorial/image22.png)
 
 * * *
 
@@ -228,13 +231,13 @@ Preencha o nome da suíte e sua descrição, caso queira organizar por palavras 
 
 Ao final clique em “Gravar”
 
-![](images/image1.png)
+![](testlink-tutorial/image1.png)
 
 ##### 5.5 – Editar suíte de testes e criar Casos de teste
 
 ###### Após criar a suíte de testes você poderá selecionar no navegador à esquerda, selecionando o ícone da engrenagem, será disponibilizado opções para editar, mover, deletar, exportar Suítes de teste e Casos de teste.
 
-![](images/image40.png)
+![](testlink-tutorial/image40.png)
 
 * * *
 
@@ -244,27 +247,27 @@ Ao selecionar no menu anterior o ícone +, atribua nomes e descrições para os 
 
 Ao final clique em “Criar”
 
-![](images/image21.png)
+![](testlink-tutorial/image21.png)
 
 ##### 5.7 – Após criar um teste, selecione-o no navegador à esquerda
 
-![](images/image39.jpg)
+![](testlink-tutorial/image39.jpg)
 
 ##### 5.8 – Clique em ‘Criar um passo’ para especificar os passos do teste
 
-![](images/image10.png)
+![](testlink-tutorial/image10.png)
 
 ##### 5.9 – Preencha o passo e clique em “Gravar” para inserir o próximo passo ou “Gravar e sair” para concluir
 
-![](images/image36.jpg)
+![](testlink-tutorial/image36.jpg)
 
 ##### 5.10 – De volta na página de Caso de teste, clique na engrenagem novamente e depois em “Adicionar aos Planos de Teste”
 
-![](images/image15.png)
+![](testlink-tutorial/image15.png)
 
 ##### 5.11 – Selecione os checkboxes dos testes a serem adicionados e clique em “Adicionar”
 
-![](images/image30.png)
+![](testlink-tutorial/image30.png)
 
 * * *
 
@@ -275,22 +278,22 @@ VI – Como atribuir testes para execução
 
 ##### 6.1 – A partir do menu principal clique em “Atribuir Casos de Teste para execução”
 
-![](images/image11.png)
+![](testlink-tutorial/image11.png)
 
 ##### 6.2 – Selecione o Plano, Plataforma e Baseline/Build para atribuir o teste
 
-![](images/image33.png)
+![](testlink-tutorial/image33.png)
 
 ##### 6.3 - Selecione o “Caso de Teste”
 
-![](images/image16.png)
+![](testlink-tutorial/image16.png)
 
 ##### 6.4 – Selecione o ‘usuário’ a fazer os testes e selecione na lista quais testes serão atribuídos a este usuário. É possível selecionar mais de um usuário.  
 Em seguida clique no botão “Aplicar Atribuição” e “Gravar Atribuições”
 
-![](images/image5.png)
+![](testlink-tutorial/image5.png)
 
-![](images/image23.png)
+![](testlink-tutorial/image23.png)
 
 * * *
 
@@ -299,15 +302,15 @@ VII – Executar testes
 
 ##### 7.1 – A partir do menu principal selecione “Executar Testes”
 
-![](images/image17.png)
+![](testlink-tutorial/image17.png)
 
 ##### 7.2 – Selecione o teste a ser executado
 
-![](images/image25.png)
+![](testlink-tutorial/image25.png)
 
 ##### 7.3 – Nesta tela o usuário terá todas as informações pertinentes ao teste e os passos que precisam ser seguidos
 
-![](images/image44.png)
+![](testlink-tutorial/image44.png)
 
 * * *
 
@@ -319,25 +322,25 @@ VII – Executar testes
 
 \>> Mensagem ‘Boas vindas, admin!’ é exibida.
 
-![](images/image29.jpg)
+![](testlink-tutorial/image29.jpg)
 
-![](images/image4.jpg)
+![](testlink-tutorial/image4.jpg)
 
 ##### 7.5 – Ao completar o teste, marque na página se a etapa passou e adicione comentários da etapa.
 
-![](images/image18.png)
+![](testlink-tutorial/image18.png)
 
-##### 7.6 – Ao final do teste anote o tempo usado e selecione nos ícones (![](images/image14.png)) se o teste passou, falhou ou foi bloqueado.
+##### 7.6 – Ao final do teste anote o tempo usado e selecione nos ícones (![](testlink-tutorial/image14.png)) se o teste passou, falhou ou foi bloqueado.
 
-![](images/image38.png)
+![](testlink-tutorial/image38.png)
 
 ##### 7.7 – Clique no ícone de pasta ao lado esquerdo do nome do caso de teste para ‘anexar evidências’ do resultado do teste.
 
-![](images/image34.png)
+![](testlink-tutorial/image34.png)
 
 ##### 7.8 – No final da página selecione “Escolher arquivo” para anexar a prova de execução e clique em “Enviar arquivo”
 
-![](images/image28.png)
+![](testlink-tutorial/image28.png)
 
 * * *
 
