@@ -16,12 +16,12 @@ Portanto, para manter um sistema com confiabilidade, qualidade e reduzir falhas,
 ![Piramide de testes](SamantaCicilia/Image%20on%202022-11-19%2007.46.46%20PM.jpg "")<!-- {"preview":"true"} -->
 
 **Este resumo foi produzido por** 
-	
-	- Carolina Barros [Linkedin](https://www.linkedin.com/in/carolina-barros-03381a1b8/ "")
-	
-	- Johnny Kamigashima [Linkedin](https://www.linkedin.com/in/kamigashima/ "")
-	
-	- Victor Sarraf [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-sarraf-26330580/ "")
+
+- Carolina Barros [Linkedin]("https://www.linkedin.com/in/carolina-barros-03381a1b8/")
+
+- Johnny Kamigashima [Linkedin]("https://www.linkedin.com/in/kamigashima/")
+
+- Victor Sarraf [Linkedin]("https://www.linkedin.com/in/jo%C3%A3o-victor-sarraf-26330580/")
 	
 Para o Desafio #1 do PTQS do Curso do Júlio de Lima em outubro/2022
 
