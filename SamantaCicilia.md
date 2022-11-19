@@ -17,11 +17,11 @@ Portanto, para manter um sistema com confiabilidade, qualidade e reduzir falhas,
 
 **Este resumo foi produzido por** 
 
-- Carolina Barros [Linkedin]("https://www.linkedin.com/in/carolina-barros-03381a1b8/")
+- Carolina Barros [Linkedin](https://www.linkedin.com/in/carolina-barros-03381a1b8/)
 
-- Johnny Kamigashima [Linkedin]("https://www.linkedin.com/in/kamigashima/")
+- Johnny Kamigashima [Linkedin](https://www.linkedin.com/in/kamigashima/)
 
-- Victor Sarraf [Linkedin]("https://www.linkedin.com/in/jo%C3%A3o-victor-sarraf-26330580/")
+- Victor Sarraf [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-sarraf-26330580/)
 	
 Para o Desafio #1 do PTQS do Curso do Júlio de Lima em outubro/2022
 
