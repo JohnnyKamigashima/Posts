@@ -389,6 +389,8 @@ Sumário
 
 * * *
 
+Link para Download do PDF deste material.
+
 Referências: Testlink distribuído pela Bitnami - [https://hub.docker.com/r/bitnami/testlink](https://www.google.com/url?q=https://hub.docker.com/r/bitnami/testlink&sa=D&source=editors&ust=1668902282116390&usg=AOvVaw0OHxTzQ9LxZyJctT48pki7), Manual da versao anterior no medium: [https://medium.com/@luanasreis/testlink-uma-ferramenta-de-gerenciamento-de-testes-de-software-44001b816f64](https://www.google.com/url?q=https://medium.com/@luanasreis/testlink-uma-ferramenta-de-gerenciamento-de-testes-de-software-44001b816f64&sa=D&source=editors&ust=1668902282116761&usg=AOvVaw2Cz3qPSR_hROMv4pzCvqrL) 
 
 A versão utilizada para este tutorial foi 1.9.20 \[DEV, a última disponibilizada pela Bitnami antes dela abandonar o projeto.\]
