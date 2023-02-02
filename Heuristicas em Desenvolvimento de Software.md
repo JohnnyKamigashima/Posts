@@ -1,6 +1,7 @@
 # O que são Heurísticas?
-Heurísticas são em geral acrônimos formados por uma ou mais letras, normalmente as iniciais, que descrevem uma característica a ser exerciitada. A utilização a concatenação destas letras facilita a lembrança (mnemônico).
-Estas heurísticas podem ser utilizadas como ferramentas no estilo checklists para guiar o profissional na busca de seu objetivo.
+Heurísticas são em geral acrônimos formados pelas iniciais de uma ou mais características a serem exercitadas. A utilização da concatenação destas letras facilita a memorização (mnemônico)
+Essas heurísticas podem ser usadas como checklists para guiar o profissional até seu objetivo.
+
 - - -
 # Heurística para dados de entrada
 
